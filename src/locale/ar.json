@@ -1,0 +1,99 @@
+{
+  "setup": {
+    "Description": "اعداد رسالة التكت",
+    "SelectPlaceholder": "قائمة الاختيارات",
+    "success": "تم إكمال الإعداد بنجاح"
+  },
+  "setLang": {
+    "success": "تم تعيين اللغة إلى العربية."
+  },
+  "addSection": {
+    "Description": "إضافة قسم جديد",
+    "SelectPlaceholder": "قائمة الاختيارات",
+    "success": "تم إكمال الإعداد بنجاح",
+    "SectionName": "القسم",
+    "SectionNameDescription": "اسم القسم الذي تريد انشائه",
+    "Role": "الرتبة",
+    "RoleDescription": "الرتبة الخاصة بمسؤولين القسم",
+    "image": "الصورة",
+    "imageDescription": "الصورة الخاصة بالتكت",
+    "error": "القسم الذي تريد اضافته موجود بالفعل",
+    "emoji": "الإيموجي الخاص بالقسم (اختياري)",
+    "emojiError": "خطأ في اختيار الإيموجي"
+  },
+  "deleteSection": {
+    "Description": "حذف قسم",
+    "SelectPlaceholder": "اسم القسم",
+    "deleteMessage": "اختر القسم الذي تريد حذفه",
+    "success": "تم حذف القسم بنجاح"
+  },
+  "editSettings": {
+    "Description": "اعداد قنوات التكت و السجلات",
+    "success": "تم اعداد الرومات بنجاح",
+    "error": "خطأ في اختيار الرومات",
+    "category": "القناة الخاصة بالتكت",
+    "logs": "القناة المخصص سجلات التكت",
+    "BACKGROUND": "الخلفية المخصصة لرسالة التكت",
+    "LINE": "صورة الخط المخصصة لرسالة التكت (أختياري)",
+    "SECTION_TYPE": "طريقة العرض (أزرار أو قائمة)"
+  },
+  "claim": {
+    "userClaimError": "لا يمكنك استلام التذكرة التي فتحتها.",
+    "claimedBy": "تم استلام التذكرة بواسطة : [user].",
+    "missingPermission": "ليس لديك صلاحية لاستلام هذه التذكرة"
+  },
+  "close": {
+    "confirm": "هل انت متاكد بانك تريد اغلاق هذه التذكرة ؟",
+    "yes": "نعم",
+    "no": "لا"
+  },
+  "confirmNo": {
+    "cancelConfirmation": "تم الغاء اغلاق هذه التذكرة"
+  },
+  "confirmYes": {
+    "noReason": "No reason provided.",
+    "closeReason": "Reason",
+    "closed": "تم اغلاق هذه التذكرة",
+    "save": "حفظ",
+    "delete": "حذف",
+    "ticketClosed": "تم اغلاق تذكرتك",
+    "openedBy": "فتح التذكرة",
+    "claimedBy": "استلم التذكرة",
+    "noOne": "لا احد",
+    "closedBy": "اغلق التذكرة",
+    "openTime": "وقت فتح التذكرة",
+    "closeTime": "وقت اغلاق التذكرة",
+    "download": "تنزيل التذكرة"
+  },
+  "delete": {
+    "deleteTimer": "سيتم حذف التذكرة بعد 5 ثواني"
+  },
+  "rename": {
+    "missingPremissions": "ليس لديك صلاحية",
+    "nameChanged": "تم التغيير الاسم بنجاح",
+    "modalTitle": "تغيير اسم الروم الخاص بك",
+    "modalLabel": "من فضلك، أدخل الاسم الجديد للتذكرة:"
+  },
+  "save": {
+    "noReason": "No reason provided.",
+    "closeReason": "Reason",
+    "closed": "تم اغلاق هذه التذكرة",
+    "ticketClosed": "تم اغلاق تذكرتك",
+    "openedBy": "فتح التذكرة",
+    "claimedBy": "استلم التذكرة",
+    "noOne": "لا احد",
+    "closedBy": "اغلق التذكرة",
+    "openTime": "وقت فتح التذكرة",
+    "closeTime": "وقت اغلاق التذكرة",
+    "download": "تنزيل التذكرة",
+    "saved": "تم حفظ التذكرة بنجاح"
+  },
+  "select": {
+    "helloUser": "مرحباً بك **[user]**, - [role]",
+    "claim": "استلام التذكرة",
+    "close": "اغلاق التذكرة",
+    "rename": "تغيير اسم التذكرة",
+    "created": " تم صنع تذكرتك في :  [channel]",
+    "alreadyCreated": "لديك تذكرة بالفعل"
+  }
+}

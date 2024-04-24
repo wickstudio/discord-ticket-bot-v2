@@ -1,0 +1,16 @@
+{
+  "TOKEN": "TOKEN",
+  "BACKGROUND": "",
+  "LINE": "",
+  "categoryID": "",
+  "log": "",
+  "language": "ar",
+  "SECTION_TYPE": "list",
+  "optionConfig": {},
+  "ticketOptions": [],
+  "colors": {
+    "Support": "Primary",
+    "Report": "Primary",
+    "Apply Staff": "Primary"
+  }
+}
